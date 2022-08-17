@@ -1,0 +1,11 @@
+{
+  "app_name": "GoldE Admin",
+  "ok": "確定",
+  "login_expired": "您的登入已过期，请重新登入",
+  "error_no_intent": "没有网络连接！",
+  "general_error": "出了点问题，请稍后重试！",
+  "error_id_cannot_empty": "用户名不能为空",
+  "password_cannot_empty": "密码不能为空",
+  "user_name": "用戶名",
+  "password": "密码"
+}

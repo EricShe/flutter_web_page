@@ -1,0 +1,11 @@
+{
+  "app_name": "GoldE Admin",
+  "ok": "Ok",
+  "login_expired": "Your login has expired, please log in again",
+  "error_no_intent": "No internet connection！",
+  "general_error": "Something went wrong please retry later!",
+  "error_id_cannot_empty": "User name cannot empty",
+  "password_cannot_empty": "password cannot empty",
+  "user_name": "User Name",
+  "password": "Password"
+}
